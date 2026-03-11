@@ -6,9 +6,9 @@ export default function RootLayout() {
       <Stack.Screen 
         name="index" 
         options={{ 
-          headerTitle: 'Assignment 1 - Nama dan Nim',
-          headerStyle: { backgroundColor: '#000000'},
-          headerTitleStyle: { color: 'white'},
+          headerTitle: 'Assignment 6 - Student Biodata',
+          headerStyle: { backgroundColor: '#ffffff'},
+          headerTitleStyle: { color: 'black'},
           headerTitleAlign: 'center',
         }} 
       />
